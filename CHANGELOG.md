@@ -12,6 +12,12 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 ### Fixed
 
+## [8.2.0] 23-11-23
+
+## Fixed
+
+- (Android) Only use non time critical notifications to prevent permission issues on Android 12 and above.
+
 ## [8.1.1] 2021-10-01
 
 ### Fixed
