@@ -1,5 +1,5 @@
 {
-  "name": "#qn/react-native-push-notification",
+  "name": "@qn/react-native-push-notification",
   "version": "8.2.0",
   "description": "React Native Local and Remote Notifications",
   "main": "index.js",
